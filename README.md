@@ -2,7 +2,7 @@
 
 SDKPerf client scripts for Solace Message Bus testing
 
-* `nonpersistent\_fanout/runtest <rate> <size> <duration> <fanout>`
+* `nonpersistent_fanout/runtest <rate> <size> <duration> <fanout>`
 
 | Persistence   | Msg Exchange Pattern |
 |---------------|----------------------|
@@ -14,7 +14,7 @@ consumers.
 
 Verifies number of messages sent and aggregate number received.
 
-* `nonpersistent\_latency/runtest <rate> <size> <duration> <flows>`
+* `nonpersistent_latency/runtest <rate> <size> <duration> <flows>`
 
 | Persistence   | Msg Exchange Pattern |
 |---------------|----------------------|
@@ -31,7 +31,7 @@ at a configured message size and rate quantifying the latencies according to:
 
 Verifies aggregate number of messages sent and aggregate number received.
 
-* `persistent\_fanout/runtest <rate> <size> <duration> <fanout>`
+* `persistent_fanout/runtest <rate> <size> <duration> <fanout>`
 
 | Persistence   | Msg Exchange Pattern |
 |---------------|----------------------|
@@ -43,7 +43,7 @@ consumers.
 
 Verifies number of messages sent and aggregate number received.
 
-* `persistent\_pt2pt/runtest <rate> <size> <duration> <flows>`
+* `persistent_pt2pt/runtest <rate> <size> <duration> <flows>`
 
 | Persistence   | Msg Exchange Pattern |
 |---------------|----------------------|
