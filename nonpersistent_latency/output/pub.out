@@ -1,0 +1,57 @@
+Publishing 2 streams at 500 each for 15000 messages
+CPU Speed calculated (Hz): 38000000
+CPU Speed calculated (Hz): 27000000
+Client naming used:
+	logging ID   = publisher01_000001
+	username     = publisher01_000001
+	vpn          = 
+	client names = publisher01_000001
+
+Client naming used:
+	logging ID   = publisher00_000001
+	username     = publisher00_000001
+	vpn          = 
+	client names = publisher00_000001
+
+
+Allow clients to finish receiving. Waiting: 2 secs
+
+Allow clients to finish receiving. Waiting: 2 secs
+
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Total Messages transmitted                 = 15000
+Computed publish rate (msg/sec)            = 500.00
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+No latency samples collected
+
+CPU usage = 3.24%
+
+
+
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Total Messages transmitted                 = 15000
+Computed publish rate (msg/sec)            = 500.00
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+No latency samples collected
+
+CPU usage = 3.01%
+
+
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 32.271985
+	Via cycles     : 485440633489.532339
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 32.374354
+	Via cycles     : 683212743439.168961

@@ -1,0 +1,28 @@
+Running cmd ../common/c/7.2.5.6/sdkperf_c_osx for publisher
+CPU Speed calculated (Hz): 17000000
+Client naming used:
+	logging ID   = publisher1_000001
+	username     = publisher1_000001
+	vpn          = 
+	client names = publisher1_000001
+
+
+Allow clients to finish receiving. Waiting: 2 secs
+
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Total Messages transmitted                 = 1000
+Computed publish rate (msg/sec)            = 100.00
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+CPU usage = 1.01%
+
+
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.278842
+	Via cycles     : 33.096476

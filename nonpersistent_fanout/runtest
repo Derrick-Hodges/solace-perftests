@@ -1,0 +1,24 @@
+#!/bin/bash
+cd `dirname $0`
+
+if [ "$#" -ne 4 ]; then
+	echo "	USAGE: $0 <rate> <size> <duration> <fanout>"
+	echo ""
+	echo ""
+	exit 1
+fi
+rate=$1
+size=$2
+dur=$3
+fanout=$4
+. ../common/shared.sh
+setpath ..
+
+. ./scripts/subscriber_start.sh $fanout >output/sub.out 2>output/sub.err
+read -p "Subscribers started; press enter to continue"
+
+. ./scripts/publisher_start.sh $rate $size $dur  >output/pub.out 2> output/pub.err
+
+cleanup
+
+

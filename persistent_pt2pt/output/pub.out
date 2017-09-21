@@ -1,0 +1,270 @@
+CPU Speed calculated (Hz): 14000000
+CPU Speed calculated (Hz): 16000000
+CPU Speed calculated (Hz): 19000000
+CPU Speed calculated (Hz): 17000000
+Client naming used:
+	logging ID   = publisher10_000001
+	username     = publisher10_000001
+	vpn          = 
+	client names = publisher10_000001
+
+Client naming used:
+	logging ID   = publisher30_000001
+	username     = publisher30_000001
+	vpn          = 
+	client names = publisher30_000001
+
+Client naming used:
+	logging ID   = publisher20_000001
+	username     = publisher20_000001
+	vpn          = 
+	client names = publisher20_000001
+
+Client naming used:
+	logging ID   = publisher40_000001
+	username     = publisher40_000001
+	vpn          = 
+	client names = publisher40_000001
+
+CPU Speed calculated (Hz): 13000000
+Client naming used:
+	logging ID   = publisher00_000001
+	username     = publisher00_000001
+	vpn          = 
+	client names = publisher00_000001
+
+CPU Speed calculated (Hz): 14000000
+Client naming used:
+	logging ID   = publisher01_000001
+	username     = publisher01_000001
+	vpn          = 
+	client names = publisher01_000001
+
+CPU Speed calculated (Hz): 14000000
+CPU Speed calculated (Hz): 21000000
+Client naming used:
+	logging ID   = publisher21_000001
+	username     = publisher21_000001
+	vpn          = 
+	client names = publisher21_000001
+
+Client naming used:
+	logging ID   = publisher11_000001
+	username     = publisher11_000001
+	vpn          = 
+	client names = publisher11_000001
+
+CPU Speed calculated (Hz): 12000000
+CPU Speed calculated (Hz): 17000000
+Client naming used:
+	logging ID   = publisher31_000001
+	username     = publisher31_000001
+	vpn          = 
+	client names = publisher31_000001
+
+Client naming used:
+	logging ID   = publisher41_000001
+	username     = publisher41_000001
+	vpn          = 
+	client names = publisher41_000001
+
+
+
+
+
+
+
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+
+
+
+Allow clients to finish receiving. Waiting: 2 secs
+
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+Allow clients to finish receiving. Waiting: 2 secs
+
+
+
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Aggregate Msgs Sent Stats (Total # clients: 1)
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+Total Messages transmitted                 = 100
+
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Aggregate Msgs Sent Stats (Total # clients: 1)
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+
+-----------------------------------------------------
+Total Messages transmitted                 = 100
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Total Messages transmitted                 = 100
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Computed publish rate (msg/sec)            = 10.00
+Computed publish rate (msg/sec)            = 10.00
+
+-----------------------------------------------------
+
+Computed publish rate (msg/sec)            = 10.00
+Total Messages transmitted                 = 100
+
+Total Messages transmitted                 = 100
+Total Messages transmitted                 = 100
+Computed publish rate (msg/sec)            = 10.00
+Total Messages transmitted                 = 100
+
+Computed publish rate (msg/sec)            = 10.00
+
+-----------------------------------------------------
+
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Aggregate Msgs Sent Stats (Total # clients: 1)
+-----------------------------------------------------
+Total Messages transmitted                 = 100
+Total Messages transmitted                 = 100
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Computed publish rate (msg/sec)            = 10.00
+
+Computed publish rate (msg/sec)            = 10.00
+
+Computed publish rate (msg/sec)            = 10.00
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+Computed publish rate (msg/sec)            = 10.00
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+
+
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+
+CPU usage = 0.35%
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+Total Messages transmitted                 = 100
+CPU usage = 0.31%
+CPU usage = 0.32%
+
+
+
+Computed publish rate (msg/sec)            = 10.00
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+
+
+
+CPU usage = 0.30%
+
+
+
+CPU usage = 0.35%
+
+
+
+
+CPU usage = 0.34%
+
+
+CPU usage = 0.35%
+
+CPU usage = 0.34%
+
+
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 0
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+CPU usage = 0.33%
+
+
+CPU usage = 0.32%
+
+
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.272266
+	Via time of day: 12.281455
+	Via cycles     : 45.533902
+	Via cycles     : 33.489803
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.281437
+	Via cycles     : 29.962213
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.280890
+	Via cycles     : 43.685985
+	Via time of day: 12.275240
+	Via time of day: 12.279428
+	Via cycles     : 26.372538
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.281647
+	Via time of day: 12.281676
+	Via cycles     : 40.705624
+	Via cycles     : 35.612749
+	Via cycles     : 40.305177
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 12.275374
+	Via cycles     : 39.582873
+	Via time of day: 12.272391
+	Via cycles     : 32.159901

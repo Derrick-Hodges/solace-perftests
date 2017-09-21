@@ -1,0 +1,85 @@
+subscriber start, cmd is ../common/c/7.2.5.6/sdkperf_c_osx
+CPU Speed calculated (Hz): 18000000
+Client naming used:
+	logging ID   = subscriber00_000001
+	username     = subscriber00_000001
+	vpn          = 
+	client names = subscriber00_000001
+
+CPU Speed calculated (Hz): 14000000
+Client naming used:
+	logging ID   = subscriber01_000001
+	username     = subscriber01_000001
+	vpn          = 
+	client names = subscriber01_000001
+
+
+
+
+
+-----------------------------------------------------
+-----------------------------------------------------
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Aggregate Msgs Sent Stats (Total # clients: 1)
+Total Messages transmitted                 = 0
+Computed publish rate (msg/sec)            = 0.00
+
+Total Messages transmitted                 = 0
+Computed publish rate (msg/sec)            = 0.00
+
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 15000
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+-----------------------------------------------------
+Aggregate Msgs Recv Stats (Total # clients: 1)
+Total Messages received across all clients = 15000
+Computed receive rate (msg/sec aggregate)  = 0.00
+Messages received with discard indication  = 0
+
+
+Latency Info: 
+Individual latency bucket size = 146.29 us
+Latency warmup                 = 10.00 s
+Latency Messages received      = 2223
+Latency msg rate (msg/sec)     = 0.00
+
+Latency Stats: 
+Minimum latency for subs       = 36546 us
+Average latency for subs       = 104315 us
+50th percentile latency        = 104009 us
+95th percentile latency        = 144384 us
+99th percentile latency        = 177591 us
+99.9th percentile latency      = 210505 us
+Maximum latency for subs       = 377218 us
+Standard Deviation             = 25913.24 us
+
+Latency Info: 
+Individual latency bucket size = 113.78 us
+Latency warmup                 = 10.00 s
+Latency Messages received      = 2079
+Latency msg rate (msg/sec)     = 0.00
+
+Latency Stats: 
+Minimum latency for subs       = 27654 us
+Average latency for subs       = 80751 us
+50th percentile latency        = 79189 us
+95th percentile latency        = 112071 us
+99th percentile latency        = 142336 us
+99.9th percentile latency      = 177607 us
+Maximum latency for subs       = 288616 us
+Standard Deviation             = 20555.81 us
+
+CPU usage = 0.00%
+
+
+CPU usage = 0.00%
+
+
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+Error in clock.  Runtime calculation different by more than 1 second between timeofday and cycles (in sec)
+	Via time of day: 35.085932
+	Via cycles     : 115.476526
+	Via time of day: 35.092680
+	Via cycles     : 90.750206
