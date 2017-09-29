@@ -4,11 +4,12 @@ fanout=$1
 perfhost=$perfhost1
 proc=5
 
-half=$(( $fanout/2 - 1 ))
+half=$(( $fanout/2 ))
+otherhalf=$(( $fanout - $half ))
 
 proc=1
 j=0
-for i in `seq 0 $half`
+for i in `zeroseq $half`
 do
 	proc=$(( $proc + 1 ))
 	# ssh $perfhost1 \
@@ -21,7 +22,7 @@ done
 
 proc=5
 j=1
-for i in `seq 0 $half`
+for i in `zeroseq $otherhalf`
 do
 	proc=$(( $proc + 1 ))
 	# ssh $perfhost2 \

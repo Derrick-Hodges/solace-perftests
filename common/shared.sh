@@ -48,6 +48,10 @@ gatherlats() {
 	echo "stdev is `gatherlat Deviation output/sub.out`"
 }
 
+zeroseq() {
+	seq 0 $(( $1 - 1 ));
+}
+
 cleanup() {
     echo "Cleaning up"
     . ./scripts/publisher*_stop.sh >output/pubstop.out 2> output/pubstop.err
