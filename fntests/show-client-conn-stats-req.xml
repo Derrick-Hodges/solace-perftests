@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc semp-version="soltr/8_3VMR">
+  <show>
+    <client>
+      <name>subscriber*</name>
+      <vpn-name>*</vpn-name>
+      <stats/>
+      <detail/>
+    </client>
+  </show>
+</rpc>
